@@ -15,4 +15,4 @@ bY = float(input('Введите Y точки B :'))
 
 result = math.sqrt(((bX - aX)**2 + (bY - aY) ** 2))
 
-print(round(result, 50))
+print(round(result, 2))
